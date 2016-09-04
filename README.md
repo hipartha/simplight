@@ -1,4 +1,5 @@
 # simplight.tmTheme
+Application: Sublime Text 3
 
 Manual Installation:
  - on the Sublime Text Menu, click Preferences => Browse Packages... 
