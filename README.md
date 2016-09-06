@@ -7,4 +7,4 @@ Manual Installation:
  - go to the sub-folder "User" and download the "simplight.tmTheme" file to this location
  - it's now available under the menu: Preferences => Color Scheme => User
 
-You can copy, modify, distribute and perform the work. However, the author makes no warranties about the work, and disclaims all liabilities for any use of the work.
+You may copy, modify, distribute and perform the work. However, the author makes no warranties about the work, and disclaims all liabilities for any use of the work.
