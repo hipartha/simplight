@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Ian Joyner</string>
+	<string>Partha</string>
 	<key>name</key>
-	<string>Eiffel</string>
+	<string>simplight</string>
 	<key>semanticClass</key>
-	<string>theme.light.eiffel</string>
+	<string>theme.light.simple</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -107,7 +107,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#D80800</string>
+				<string>#1bbac7</string>
 			</dict>
 		</dict>
 		<dict>
